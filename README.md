@@ -1,10 +1,9 @@
 
-### Escuela Colombiana de Ingeniería
-### Arquiecturas de Software
+# Laboratorio No. 4
 
-## Construción de un cliente 'grueso' con un API REST, HTML5, Javascript y CSS3. Parte I.
-
-### Trabajo individual o en parejas. A quienes tuvieron malos resultados en el parcial anterior se les recomienda hacerlo individualmente.
+**Integrantes**
+- Juan Sebastián García Hincapie
+- Ana Gabriela Silva Briceño.
 
 ![](img/mock.png)
 
