@@ -25,7 +25,7 @@ import org.springframework.stereotype.Service;
 public class InMemoryBlueprintPersistence implements BlueprintsPersistence{
 
     private final ConcurrentHashMap<Tuple<String,String>,Blueprint> blueprints=new ConcurrentHashMap<>();
-    
+
     public InMemoryBlueprintPersistence() {
         
         //load stub data

@@ -2,10 +2,10 @@ var apimock = (function () {
 
     const mockdata = [];
 
-    mockdata["JhonConnor"] = [
+    mockdata['JhonConnor'] = [
         {
-            author: "JhonConnor",
-            name: "house",
+            author: 'JhonConnor',
+            name: 'house',
             points: [
                 {
                     x: 10,
@@ -22,8 +22,8 @@ var apimock = (function () {
             ]
         },
         {
-            author: "JhonConnor",
-            name: "bike",
+            author: 'JhonConnor',
+            name: 'bike',
             points: [
                 {
                     x: 30,
